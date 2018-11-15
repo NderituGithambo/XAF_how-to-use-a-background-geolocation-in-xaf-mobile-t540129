@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GeolocationHttpHandler.cs](./CS/BackgroundGeolocation.Mobile/Geolocation/GeolocationHttpHandler.cs) (VB: [GeolocationHttpHandler.vb](./VB/BackgroundGeolocation.Mobile/Geolocation/GeolocationHttpHandler.vb))
+* [GeolocationJsonObject.cs](./CS/BackgroundGeolocation.Mobile/Geolocation/GeolocationJsonObject.cs) (VB: [GeolocationJsonObject.vb](./VB/BackgroundGeolocation.Mobile/Geolocation/GeolocationJsonObject.vb))
+* [GeolocationScript.js](./CS/BackgroundGeolocation.Mobile/Geolocation/GeolocationScript.js) (VB: [GeolocationScript.js](./VB/BackgroundGeolocation.Mobile/Geolocation/GeolocationScript.js))
+* **[MobileApplication.cs](./CS/BackgroundGeolocation.Mobile/MobileApplication.cs) (VB: [MobileApplication.vb](./VB/BackgroundGeolocation.Mobile/MobileApplication.vb))**
+* [DisplayGeolocationController.cs](./CS/BackgroundGeolocation.Module.Web/Controllers/DisplayGeolocationController.cs) (VB: [DisplayGeolocationController.vb](./VB/BackgroundGeolocation.Module.Web/Controllers/DisplayGeolocationController.vb))
+* [DeviceInfo.cs](./CS/BackgroundGeolocation.Module/BusinessObjects/DeviceInfo.cs) (VB: [DeviceInfo.vb](./VB/BackgroundGeolocation.Module/BusinessObjects/DeviceInfo.vb))
+<!-- default file list end -->
 # How to use a Background Geolocation in XAF Mobile
 
 
